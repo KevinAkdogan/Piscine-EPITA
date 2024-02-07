@@ -1,0 +1,10 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/kvnadgn/kevin-berkant.akdogan-piscine-2024/heap'
+gcc -Wall -Werror -Wextra -std=c99 -pedantic   -c -o create.o create.c
+gcc -Wall -Werror -Wextra -std=c99 -pedantic   -c -o add.o add.c
+gcc -Wall -Werror -Wextra -std=c99 -pedantic   -c -o del.o del.c
+gcc -Wall -Werror -Wextra -std=c99 -pedantic   -c -o pop.o pop.c
+gcc -Wall -Werror -Wextra -std=c99 -pedantic   -c -o print.o print.c
+ar rcs libheap.a create.o add.o del.o pop.o print.o
+make: Leaving directory `/Users/kvnadgn/kevin-berkant.akdogan-piscine-2024/heap'
+ 
