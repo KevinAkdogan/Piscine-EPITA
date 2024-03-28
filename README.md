@@ -7,7 +7,7 @@ Dans ce référentiel, vous trouverez une collection d'exercices de base en C vi
 
 ## Pour Commencer
 1. **Cloner le Référentiel :**
-   Clonez ce référentiel sur votre machine locale en utilisant la commande suivante : **`git clone https://github.com/votre_nom_utilisateur/EPITA-Piscine-Exercices-de-Base-en-C.git`**
+   Clonez ce référentiel sur votre machine locale en utilisant la commande suivante : **`git clone git@github.com:KevinAkdogan/Piscine-EPITA.git`**
 
 2. **Naviguer vers le Répertoire :**
    Utilisez la commande **`cd EPITA-Piscine-Exercices-de-Base-en-C`** pour acceder à l'ensemble des exercices.
